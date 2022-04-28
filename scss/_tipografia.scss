@@ -1,0 +1,29 @@
+/*****************
+Estilos de tipografia
+*******************/
+
+/*TITULOS*/
+
+.titu{
+    position: relative;
+    font-size: 20px;
+    margin:20px;
+    color:black;
+    left: 300px;
+}
+
+h5{
+    color: black;
+}
+footer h3{background-image:url("imagen/corte.jpg") ;
+    background-size:contain;
+    height: 30px;
+    width: 300px;
+    background-repeat: repeat-x;
+    color:white;
+    position: static;
+    left: 10px;
+    border-style:solid;
+    border-color: black;
+    border-radius: 8px;
+}
